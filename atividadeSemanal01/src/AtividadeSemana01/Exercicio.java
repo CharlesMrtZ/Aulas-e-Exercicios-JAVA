@@ -13,7 +13,7 @@ public class Exercicio {
         boolean controle = true;
 
         while(controle){
-            String aluno = "";
+            String aluno;
             System.out.println("Digite o nome do Aluno ou digite [fim] para finalizar");
             aluno =  sc.nextLine();
                 if (aluno.equalsIgnoreCase("fim")){
