@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d964a50-3b81-4dab-abaf-4ad3acbdc7bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../M1S01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S02/exemplo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S02/exemplo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S02/exercicio-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S02/exercicio-5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S02/exercicio-6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S02/exercicio-7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/atividade1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/atividade2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/atividade3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/assets/carro9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/incluir-marcas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/incluir-modelos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/incluir-veiculos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/listagem-veiculos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/releases/exercicio9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1S03/mini-aplicacao-veiculos/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2PG3wDYgrv8UZdKhAvNbcyBkWFs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Exercicio02Aula03">
+    <configuration name="AulaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana01.AulaArray" />
+      <module name="Primeiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana01.AulaArrayList" />
+      <module name="Primeiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstruturaSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana01.EstruturaSwitchCase" />
+      <module name="Primeiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio01Aula03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana01.Exercicio01Aula03" />
+      <module name="Primeiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio02Aula03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana01.Exercicio02Aula03" />
+      <module name="Primeiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio02Aula03" />
+        <item itemvalue="Application.AulaArrayList" />
+        <item itemvalue="Application.Exercicio01Aula03" />
+        <item itemvalue="Application.AulaArray" />
+        <item itemvalue="Application.EstruturaSwitchCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d964a50-3b81-4dab-abaf-4ad3acbdc7bb" name="Changes" comment="" />
+      <created>1683069829711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683069829711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/semana01/EstruturaCondicional.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
