@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class Exercicio {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
         ArrayList<String> nomesAlunos = new ArrayList<>();
         ArrayList<Double[]> notasAlunos = new ArrayList<>();
 
-        Scanner sc = new Scanner(System.in);
         String aluno = "";
         Double[] notas;
 
@@ -45,6 +45,12 @@ public class Exercicio {
                 }
             media /= notaAlunoMap.length;
             System.out.println("média: " +  media);
+
+            if (media >= 7.0) {
+                System.out.println("O aluno " + nomesAlunos.get(i) + " está aprovado!");
+            } else {
+                System.out.println("O aluno " + nomesAlunos.get(i) + " está reprovado!");
+            }
         }
     }
 }
