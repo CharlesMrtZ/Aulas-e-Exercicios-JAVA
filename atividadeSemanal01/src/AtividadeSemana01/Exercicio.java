@@ -35,13 +35,16 @@ public class Exercicio {
         System.out.println("LISTA DE ALUNOS:");
         for (int i = 0; i < nomesAlunos.size(); i++) {
             Double[] notaAlunoMap = notasAlunos.get(i);
+            Double media = 0.0;
 
             System.out.println("-----------------------------");
             System.out.println(nomesAlunos.get(i));
                 for (Double nota: notaAlunoMap) {
                     System.out.println(nota);
+                    media += nota;
                 }
-
+            media /= notaAlunoMap.length;
+            System.out.println("média: " +  media);
         }
     }
 }
