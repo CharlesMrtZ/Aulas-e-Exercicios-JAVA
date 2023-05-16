@@ -29,14 +29,19 @@ public class Exercicio {
                     }
 
                 notasAlunos.add(notas);
-                    System.out.println(notasAlunos.size());
                 }
         }
 
         System.out.println("LISTA DE ALUNOS:");
-        for (String nome: nomesAlunos) {
+        for (int i = 0; i < nomesAlunos.size(); i++) {
+            Double[] notaAlunoMap = notasAlunos.get(i);
+
             System.out.println("-----------------------------");
-            System.out.println(nome);
+            System.out.println(nomesAlunos.get(i));
+                for (Double nota: notaAlunoMap) {
+                    System.out.println(nota);
+                }
+
         }
     }
 }
